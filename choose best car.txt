@@ -1,0 +1,17 @@
+1/use these function to calculate each car 
+annual fuel consumed,annual fuel cost, operating cost and total cost :
+
+Annual fuel consumed = annual miles driven / fuel efficiency
+
+Annual fuel cost = price per gallon * annual fuel consumed
+
+Operating cost = Length of time * annual fuel cost
+
+Total cost = purchase price + operating cost
+
+2/use if to choose best car
+
+if Total cost1  > Total cost2
+best car= car 2
+else
+best car = car 1
